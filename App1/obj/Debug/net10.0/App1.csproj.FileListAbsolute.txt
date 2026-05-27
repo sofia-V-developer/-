@@ -1,0 +1,15 @@
+E:\Prrog\git\-\App1\bin\Debug\net10.0\App1.exe
+E:\Prrog\git\-\App1\bin\Debug\net10.0\App1.deps.json
+E:\Prrog\git\-\App1\bin\Debug\net10.0\App1.runtimeconfig.json
+E:\Prrog\git\-\App1\bin\Debug\net10.0\App1.dll
+E:\Prrog\git\-\App1\bin\Debug\net10.0\App1.pdb
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.AssemblyInfoInputs.cache
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.AssemblyInfo.cs
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.csproj.CoreCompileInputs.cache
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.sourcelink.json
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.dll
+E:\Prrog\git\-\App1\obj\Debug\net10.0\refint\App1.dll
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.pdb
+E:\Prrog\git\-\App1\obj\Debug\net10.0\App1.genruntimeconfig.cache
+E:\Prrog\git\-\App1\obj\Debug\net10.0\ref\App1.dll
