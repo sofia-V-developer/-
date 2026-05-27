@@ -13,7 +13,11 @@ namespace Lesson
             {
                 System.Console.WriteLine(item);
             }
-            System.Console.WriteLine("NEW");
+            for (int i = 0; i < 10; i++)
+            {
+                System.Console.WriteLine("NEW");
+            }
+            
 
         }  
     }    
