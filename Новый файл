@@ -23,6 +23,6 @@ int main() {
             std::cout << "🎉 Поздравляю! ВАПРОЛДЖЭТы угадал за " << attempts << " попыток!" << std::endl;
         }
     }
-
+    JFNNSDNNFDNFNFJKDNFJKNFJKSDNFJDFNJKSDNJKNFJKSNFJKDNSJK
     return 0;
 }
