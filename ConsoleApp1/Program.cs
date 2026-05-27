@@ -7,15 +7,15 @@ namespace Lesson
     {
         static void Main(string[] args)
         {
-            int[] arr = {1, 54, 12};
+            int[] arr = {1, 54, 12, 6};
 
             foreach (int item in arr)
             {
                 System.Console.WriteLine(item);
             }
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 1; i++)
             {
-                System.Console.WriteLine("NEW");
+                System.Console.WriteLine("NEW gk");
             }
             
 
