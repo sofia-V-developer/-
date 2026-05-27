@@ -13,6 +13,7 @@ namespace Lesson
             {
                 System.Console.WriteLine(item);
             }
+            System.Console.WriteLine("NEW");
 
         }  
     }    
