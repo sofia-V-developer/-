@@ -1,0 +1,15 @@
+E:\Prrog\git\-\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+E:\Prrog\git\-\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+E:\Prrog\git\-\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+E:\Prrog\git\-\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+E:\Prrog\git\-\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+E:\Prrog\git\-\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
