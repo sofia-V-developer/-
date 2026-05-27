@@ -15,7 +15,7 @@ namespace Lesson
             }
             for (int i = 0; i < 1; i++)
             {
-                System.Console.WriteLine("NEW gk");
+                System.Console.WriteLine("NEW gkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk");
             }
             
 
