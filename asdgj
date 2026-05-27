@@ -1,0 +1,11 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Привет, мир!");
+        Console.WriteLine($"Текущее время: {DateTime.Now}");
+        Console.ReadKey(); // Чтобы окно не закрывалось сразу
+    }
+}
