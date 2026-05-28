@@ -13,12 +13,6 @@ namespace Lesson
             {
                 System.Console.WriteLine(item);
             }
-            for (int i = 0; i < 1; i++)
-            {
-                System.Console.WriteLine("NEW gkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk");
-            }
-            
-
         }  
     }    
 }
